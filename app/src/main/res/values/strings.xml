@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidEx1SO1</string>
+    <string name="variavelA">Insira o valor de A</string>
+    <string name="variavelB">Insira o valor de B</string>
+    <string name="variavelC">Insira o valor de C</string>
+    <string name="resultado">Mostrar Resultado</string>
+</resources>
